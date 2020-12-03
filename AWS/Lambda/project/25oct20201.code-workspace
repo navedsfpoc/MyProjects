@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "hello-world-python"
+		},
+		{
+			"path": "aws-node-rest-api-with-dynamodb"
+		}
+	],
+	"settings": {}
+}
